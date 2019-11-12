@@ -9,6 +9,6 @@ The repository is organized as follow:
 - __RASD__:  
 This folder contains a ReadMe with the [link](https://polimi365-my.sharepoint.com/:w:/g/personal/10568259_polimi_it/EeDX5vouJTBPrCz2JGmZaa8Bv3QLaIZtGh5DxXZWdMM77A?e=v7UqaY "Link to the Office Word document") of the shared Office Word's file for the _RASD_ part.
 - __DD__:  
-This folder contains a ReadMe with the link of the shared Office Word's file for the _DD_ part.
+This folder contains a ReadMe with the [link](https://polimi365-my.sharepoint.com/:w:/g/personal/10579986_polimi_it/EaZCpeSz7f9LlKEG9b2_NLsBUIMKSUwdVXWTE5jLjKUUXA?e=WIQ9kc "Link to the Office Word document") of the shared Office Word's file for the _DD_ part.
 - __FinalDelivery__:  
 This folder contains the final PDF version of both _DD_ and _RASD_ parts.
